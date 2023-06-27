@@ -1,0 +1,183 @@
+{
+    "weapon": {
+        "ammoType":{
+            "light":[
+                "R-301 Carabin",
+                "Alternator SMG",
+                "P2020",
+                "RE-45 auto",
+                "R-99 SMG",
+                "G7 Scout"
+            ],
+            "heavy":[
+                "C.A.R SMG",
+                "Rampage LMG",
+                "30-30 Repeater",
+                "Wingman",
+                "M600 Spitfire",
+                "Proweler burst PDW",
+                "Hemlok burst AR",
+                "VK-47 Flatline"
+            ],
+            "shotgun":[
+                "Mozambike shotgun",
+                "Peacekeeper",
+                "EVA-8 Auto",
+                "Mastif shotgun"
+            ],
+            "energy":[
+                "Triple take",
+                "Devotion LMG",
+                "Havoc rifle",
+                "L-Star EMG",
+                "Volt SMG"
+            ],
+            "sniper":[
+                "Sentinel",
+                "Charge rifle",
+                "Longbow DMR",
+                "Kraber 50-Cal sniper"
+            ],
+            "arrows":[
+                "Bocek compound bow"
+            ]
+        },
+        "redWeapon":[
+            "Kraber 50-Cal sniper",
+            "Hemlok burst AR",
+            "Bocek compound bow",
+            "RE-45 auto"
+        ],
+        "weaponType":{
+            "AR":[
+                "Havoc rifle",
+                "VK-47 Flatline",
+                "Hemlok burst AR",
+                "R-301 Carabin"
+            ],
+            "SMG":[
+                "Alternator SMG",
+                "Proweler burst PDW",
+                "R-99 SMG",
+                "Volt SMG",
+                "C.A.R SMG"
+            ],
+            "LMG":[
+                "Devotion LMG",
+                "L-Star EMG",
+                "M600 Spitfire",
+                "Rampage LMG"
+            ],
+            "marksman":[
+                "G7 Scout",
+                "Triple take",
+                "30-30 Repeater",
+                "Bocek compound bow"
+            ],
+            "sniper1":[
+                "Sentinel",
+                "Charge rifle",
+                "Longbow DMR",
+                "Kraber 50-Cal sniper"
+            ],
+            "shotgun1":[
+                "Mozambike shotgun",
+                "Peacekeeper",
+                "EVA-8 Auto",
+                "Mastif shotgun"
+            ],
+            "pistols":[
+                "RE-45 auto",
+                "P2020",
+                "Wingman"
+            ]
+        }
+    },
+    "legtype":{
+        "recon":[
+            "Bloodhound",
+            "Crypto",
+            "Seer",
+            "Wantage"
+        ],
+        "support":[
+            "Lifeline",
+            "Loba",
+            "Gibraltar",
+            "NewCastle"
+        ],
+        "controller":[
+            "Caustic", 
+            "Wattson",
+            "Rampart",
+            "Catalys",
+            "Gibraltar"
+        ],
+        "assault":[
+            "Ash",
+            "Bangalore",
+            "Fuse",
+            "Mad Maggie",
+            "Revenant"
+        ],
+        "skirmisher":[
+            "Horizon",
+            "Mirage",
+            "Octane",
+            "Pathfinder",
+            "Valkirie",
+            "Wraith"  
+        ]
+    },
+    "image":{
+        "Ash":"./img/apex-section-bg-legends-ash-xl.jpg.adapt.1920w-removebg-preview.png.png",
+        "Wraith":"./img/wraith-removebg-preview.png",
+        "Bangalore":"./img/apex-section-bg-legends-bangalore-xl.jpg.adapt.1920w-removebg-preview.png",
+        "Mirage":"./img/mirage-removebg-preview.png",
+        "Octane":"./img/octane-removebg-preview.png",
+        "Revenant":"./img/revenant-removebg-preview.png",
+        "Horizon":"./img/horizan-removebg-preview.png",
+        "Fuse":"./img/fuse-removebg-preview.png",
+        "Mad Maggie":"./img/mad_magie-removebg-preview.png",
+        "Gibraltar":"./img/giblartar-removebg-preview.png",
+        "Caustic":"./img/caustic-removebg-preview.png",
+        "Wattson":"./img/watson-removebg-preview.png",
+        "Rampart":"./img/rampart-removebg-preview.png",
+        "NewCastle":"./img/apex-section-bg-legends-newcastle-xl.jpg.adapt.1456w-removebg-preview.png",
+        "Lifeline":"./img/lifeline-removebg-preview.png",
+        "Loba":"./img/loba-removebg-preview.png",
+        "Bloodhound":"./img/bloodhound-removebg-preview.png",
+        "Pathfinder":"./img/pathfinder-removebg-preview.png",
+        "Crypto":"./img/crypto-removebg-preview.png",
+        "Valkirie":"./img/valkiry-removebg-preview.png",
+        "Seer":"./img/seer-removebg-preview.png",
+        "RE-45 auto": "./img/re-45-removebg-preview.png",
+        "P2020": "./img/p2020-removebg-preview.png",
+        "Wingman": "./img/wingman-removebg-preview.png",
+        "Mozambike shotgun": "./img/mozmbik-removebg-preview.png",
+        "Peacekeeper": "./img/peacekeeeper-removebg-preview.png",
+        "EVA-8 Auto":"./img/eva-8-removebg-preview.png",
+        "Mastif shotgun":"./img/mastiff-removebg-preview.png",
+        "Sentinel":"./img/sentinal-removebg-preview.png",
+        "Charge rifle":"./img/charge_rifle-removebg-preview.png",
+        "Longbow DMR":"./img/long_bow-removebg-preview.png",
+        "Kraber 50-Cal sniper":"./img/kraber-removebg-preview.png",
+        "G7 Scout":"./img/g7_scout-removebg-preview.png",
+        "Triple take":"./img/triple_take-removebg-preview.png",
+        "30-30 Repeater":"./img/30-30_repeater-removebg-preview.png",
+        "Bocek compound bow":"./img/bocek-removebg-preview.png",
+        "Devotion LMG":"./img/devotion-removebg-preview.png",
+        "L-Star EMG":"./img/l-star-removebg-preview.png",
+        "M600 Spitfire":"./img/spitfire-removebg-preview.png",
+        "Rampage LMG":"./img/rampage-removebg-preview.png",
+        "Alternator SMG":"./img/alternator-removebg-preview.png",
+        "Proweler burst PDW":"./img/prowler-removebg-preview.png",
+        "R-99 SMG":"./img/r-99-removebg-preview.png",
+        "Volt SMG":"./img/volt-removebg-preview.png",
+        "C.A.R SMG":"./img/car-removebg-preview.png",
+        "Havoc rifle":"./img/havoc-removebg-preview.png",
+        "VK-47 Flatline":"./img/flatline-removebg-preview.png",
+        "Hemlok burst AR":"./img/hemlok-removebg-preview.png",
+        "R-301 Carabin":"./img/R-301-removebg-preview.png"
+    }
+}

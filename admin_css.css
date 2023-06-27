@@ -1,0 +1,26 @@
+#myVideo{
+    width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
+td{
+    text-align: center;
+    background-color: rgba(137, 43, 226, 0.39);
+    color: white;
+    border-radius: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#add{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+#add form{
+    padding-bottom: 10px;
+}
